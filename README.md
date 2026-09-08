@@ -1,6 +1,8 @@
 # Dragonfly-flight-Simulation
 Description: Simulates four-wing dragonfly hover mechanics, calculating lift, drag, and added mass with synchronized 3D Matplotlib animations.
-Dragonfly Quasi-Steady Flight Simulation -- v1 (merged single-file)
+
+
+Dragonfly Quasi-Steady Flight Simulation -- v1 
 
 A basic (non-RL) blade-element quasi-steady aerodynamic simulation of a four-winged flapping flyer, implementing the mechanisms discussed across:
 
